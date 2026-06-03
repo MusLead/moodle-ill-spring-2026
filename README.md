@@ -17,4 +17,4 @@ This repository contains the following project documentation:
 
 ## Video Documentation
 
-- https://youtu.be/rnVvbtZoXp8?is=hQncgldmR3yisFwJ
+- https://youtu.be/rnVvbtZoXp8?si=hQncgldmR3yisFwJ
