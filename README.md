@@ -1,6 +1,6 @@
 # Moodle ILL EUDRES Spring 2026
 
-Team 1 ILL Spring 2026 – Moodle Site for Railways.
+Team 1 ILL Spring 2026 - Moodle Site for Railways.
 
 ## Documentation Overview
 
